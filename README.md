@@ -64,11 +64,19 @@ Example:
 
 ---
 ## 📂 Project Structure
-
-
-
-
-
+```bash
+Food Project/
+│
+├── index.html          # Main entry point
+├── styles/
+│   └── style.css       # Custom CSS styles
+├── scripts/
+│   └── main.js         # JavaScript logic
+├── img/                # Food images
+├── data/               # JSON or static data (if any)
+├── README.md           # Project documentation
+└── assets/             # Extra resources
+```
 ---
 
 ## 🚀 Getting Started
@@ -94,11 +102,11 @@ npm start
 
 ## 💡 Usage
 
-- 1.Open the Food Project in your browser.
-- 2.Browse through the list of food items.
-- 3.Use the search bar to filter by name or category.
-- 4.Click on an item to view details (if implemented).
-- 5.(Optional) Add, edit, or remove items.
+1️⃣.Open the Food Project in your browser.
+2️⃣.Browse through the list of food items.
+3️⃣.Use the search bar to filter by name or category.
+4️⃣.Click on an item to view details (if implemented).
+5️⃣.(Optional) Add, edit, or remove items.
 
 ## 🔮 Future Enhancements
 
@@ -113,12 +121,11 @@ npm start
 ## 🤝 Contributing
 **Contributions are welcome!**
 **If you’d like to improve this project:**
-
-- 1.Fork the repository
-- 2.Create a feature branch (git checkout -b feature-xyz)
-- 3.Commit changes (git commit -m "Added xyz feature")
-- 4.Push to branch (git push origin feature-xyz)
-- 5.Open a Pull Request
+1️⃣.Fork the repository
+2️⃣.Create a feature branch (git checkout -b feature-xyz)
+3️⃣.Commit changes (git commit -m "Added xyz feature")
+4️⃣.Push to branch (git push origin feature-xyz)
+5️⃣.Open a Pull Request
 
 ## 👨‍💻 Author
 
@@ -127,6 +134,12 @@ npm start
 - 🌐 Portfolio: [Your Website Here]
 - 💼 LinkedIn: https://www.linkedin.com/in/vikram-bagali-11b7b42a6/
 - 📧 Email: 28vikram20@gmail.com
+
+##  Live Demo
+
+_View the live version:_  
+(https://killerwebsitefood.netlify.app/) —  Netlify
+
 
 ## 📜 License
 
