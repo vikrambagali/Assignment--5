@@ -51,6 +51,8 @@ _Add screenshots/gifs here (optional, but highly recommended)._
 Example:  
 
 ![Food Project Screenshot](https://github.com/vikrambagali/Assignment--5/blob/main/Food%20Project/resources/images/screenshot.jpeg)
+![Food Project Screenshot](https://github.com/vikrambagali/Assignment--5/blob/main/Food%20Project/resources/images/screenshot2.jpeg)
+![Food Project Screenshot](https://github.com/vikrambagali/Assignment--5/blob/main/Food%20Project/resources/images/screenshot3.jpeg)
 
 ---
 
