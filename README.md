@@ -49,7 +49,9 @@ This project was built as part of **Assignment 5** to practice core **web develo
 _Add screenshots/gifs here (optional, but highly recommended)._  
 
 Example:  
-
+<p align="left">
+  <img src="https://github.com/vikrambagali/Assignment--5/blob/main/Food%20Project/resources/images/screenshot.jpeg" width="300">
+</p>
 ![Food Project Screenshot](https://github.com/vikrambagali/Assignment--5/blob/main/Food%20Project/resources/images/screenshot.jpeg)
 ![Food Project Screenshot](https://github.com/vikrambagali/Assignment--5/blob/main/Food%20Project/resources/images/screenshot2.jpeg)
 ![Food Project Screenshot](https://github.com/vikrambagali/Assignment--5/blob/main/Food%20Project/resources/images/screenshot3.jpeg)
