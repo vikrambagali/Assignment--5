@@ -50,7 +50,7 @@ _Add screenshots/gifs here (optional, but highly recommended)._
 
 Example:  
 
-![Food Project Screenshot](./resources/images/screenshot.jpeg)
+![Food Project Screenshot](.FoodProject/resources/images/screenshot.jpeg)
 
 ---
 
