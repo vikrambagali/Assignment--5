@@ -50,11 +50,14 @@ _Add screenshots/gifs here (optional, but highly recommended)._
 
 Example:  
 <p align="left">
-  <img src="https://github.com/vikrambagali/Assignment--5/blob/main/Food%20Project/resources/images/screenshot.jpeg" width="300">
+  <img src="https://github.com/vikrambagali/Assignment--5/blob/main/Food%20Project/resources/images/screenshot.jpeg" width="400">
 </p>
-![Food Project Screenshot](https://github.com/vikrambagali/Assignment--5/blob/main/Food%20Project/resources/images/screenshot.jpeg)
-![Food Project Screenshot](https://github.com/vikrambagali/Assignment--5/blob/main/Food%20Project/resources/images/screenshot2.jpeg)
-![Food Project Screenshot](https://github.com/vikrambagali/Assignment--5/blob/main/Food%20Project/resources/images/screenshot3.jpeg)
+<p align="center">
+  <img src="https://github.com/vikrambagali/Assignment--5/blob/main/Food%20Project/resources/images/screenshot2.jpeg" width="400">
+</p>
+<p align="right">
+  <img src="https://github.com/vikrambagali/Assignment--5/blob/main/Food%20Project/resources/images/screenshot3.jpeg" width="400">
+</p>
 
 ---
 
